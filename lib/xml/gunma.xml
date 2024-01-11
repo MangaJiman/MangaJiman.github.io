@@ -113,7 +113,7 @@
 		<!-- question 1 -->
         <question id="q1" time="30" event="">
 
-    		<image margin-bottom="30" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma1.jpg"/>
+    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma1.jpg"/>
 
     		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">Around 80% of Japan’s <i>daruma</i> good luck charms are made in Gunma Prefecture. The first eye is coloured in when making a wish. When is the second one coloured in? </p>]]></text>
 
@@ -157,7 +157,7 @@
 		<!-- question 2 -->
         <question id="q2" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma2.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma2.jpg"/>
 			`
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8">© JNTO</p>]]></text>
  
@@ -202,7 +202,7 @@
 		<!-- question 3 -->
         <question id="q3" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma3.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma3.jpg"/>
 			
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8">© JNTO</p>]]></text>
 
@@ -250,7 +250,7 @@
 		<!-- question 4 -->
         <question id="q4" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma4.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma4.jpg"/>
 
     		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">The former textile factories of Kiryu City have roofs which resemble a distinctive shape. What shape is this?</p>]]></text>
 
@@ -297,7 +297,7 @@
 		<!-- question 5 -->
         <question id="q5" time="30" event="">
 
-    		<image margin-bottom="30" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma5.jpg"/>
+    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma5.jpg"/>
 
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8"> </p>]]></text>
 
