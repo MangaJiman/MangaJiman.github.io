@@ -341,7 +341,7 @@
 		</question>
 
 		<!-- question 6 -->
-        <question id="q5" time="30" event="">
+        <question id="q6" time="30" event="">
 
     		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma6.jpg"/>
 
