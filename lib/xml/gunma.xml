@@ -340,6 +340,53 @@
 			</fb>
 		</question>
 
+		<!-- question 5 -->
+        <question id="q5" time="30" event="">
+
+    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma6.jpg"/>
+
+    		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8"> </p>]]></text>
+
+    		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">Which of the following vegetables does Gunma not grow in large quantities?</p>]]></text>
+
+			<!--option 1 -->
+			<option correct="false">
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Konnyaku</p>]]></text>
+			</option>
+			
+			<!--option 2 -->	
+			<option correct="false">
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Leeks</p>]]></text>
+			</option>
+
+			<!--option 3 -->	
+			<option correct="true">
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Persimmon</p>]]></text>
+			</option>
+			
+			<!--option 4 -->	
+			<option correct="false">
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Cabbage</p>]]></text>
+			</option>
+
+			<!-- feedbacks -->
+			<fb id="pass" event="">	
+
+				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Correct!</p><p>Gunma is a major producer of konnyaku, leeks and cabbage. </p>]]></text>
+		
+				<button margin-bottom="30" anim="none" event="btnover,loadNextQuestion"><![CDATA[Finish]]></button>
+
+			</fb>
+			
+			<fb id="fail" event="">	
+
+				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Incorrect</p><p>Gunma is a major producer of konnyaku, leeks and cabbage. </p>]]></text>
+		
+				<button margin-bottom="30" anim="none" event="btnover,loadNextQuestion"><![CDATA[Finish]]></button>
+			</fb>
+		</question>
+
+
 
 		
 		<!--generic timeout text-->
