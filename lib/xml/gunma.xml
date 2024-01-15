@@ -113,7 +113,7 @@
 		<!-- question 1 -->
         <question id="q1" time="30" event="">
 
-    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma1.jpg"/>
+    		<image margin-bottom="30" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma1.jpg"/>
 
     		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">Around 80% of Japan’s <i>daruma</i> good luck charms are made in Gunma Prefecture. The first eye is coloured in when making a wish. When is the second one coloured in? </p>]]></text>
 
@@ -157,7 +157,7 @@
 		<!-- question 2 -->
         <question id="q2" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma2.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma2.jpg"/>
 			`
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8">© JNTO</p>]]></text>
  
@@ -202,7 +202,7 @@
 		<!-- question 3 -->
         <question id="q3" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma3.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma3.jpg"/>
 			
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8">© JNTO</p>]]></text>
 
@@ -250,36 +250,36 @@
 		<!-- question 4 -->
         <question id="q4" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma4.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma4.jpg"/>
 
-    		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">The former textile factories of Kiryu City have roofs which resemble a distinctive shape. What shape is this?</p>]]></text>
+    		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">Which of the following is located in Gunma?</p>]]></text>
 
 			<!--option 1 -->
 			<option correct="false">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>A dome</p>]]></text>
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>An Irish cottage</p>]]></text>
 			</option>
 			
 			<!--option 2 -->	
 			<option correct="true">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>The teeth of a saw</p>]]></text>
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>A Scottish castle</p>]]></text>
 			</option>
 
 			<!--option 3 -->	
 			<option correct="false">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>A silkworm</p>]]></text>
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>A Welsh garden</p>]]></text>
 			</option>
 			<!--/options -->
 			
 			<!--option 4 -->	
 			<option correct="false">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>A butterfly</p>]]></text>
+				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>An English folly</p>]]></text>
 			</option>
 
 			
 			<!-- feedbacks -->
 			<fb id="pass" event="">	
 
-				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Correct!</p><p>More than 200 buildings with sawtooth roofs still stand in the city, mainly used as studios, storage spaces and different types of factories.</p>]]></text>
+				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Correct!</p><p>Lockheart Castle was constructed in Edinburgh in 1829 before being dismantled and reconstructed in 1993 in the village of Takayama.</p>]]></text>
 		
 				<button margin-bottom="30" anim="none" event="btnover,loadNextQuestion"><![CDATA[Next question]]></button>
 
@@ -287,7 +287,7 @@
 			
 			<fb id="fail" event="">	
 
-				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Incorrect</p><p>More than 200 buildings with sawtooth roofs still stand in the city, mainly used as studios, storage spaces and different types of factories.</p>]]></text>
+				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Incorrect</p><p>Lockheart Castle was constructed in Edinburgh in 1829 before being dismantled and reconstructed in 1993 in the village of Takayama.</p>]]></text>
 		
 				<button margin-bottom="30" anim="none" event="btnover,loadNextQuestion"><![CDATA[Next question]]></button>
 			</fb>
@@ -297,7 +297,7 @@
 		<!-- question 5 -->
         <question id="q5" time="30" event="">
 
-    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma5.jpg"/>
+    		<image margin-bottom="30" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma5.jpg"/>
 
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8"> </p>]]></text>
 
@@ -339,53 +339,6 @@
 				<button margin-bottom="30" anim="none" event="btnover,loadNextQuestion"><![CDATA[Finish]]></button>
 			</fb>
 		</question>
-
-		<!-- question 6 -->
-        <question id="q6" time="30" event="">
-
-    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma6.jpg"/>
-
-    		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8"> </p>]]></text>
-
-    		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">Which of the following vegetables does Gunma not grow in large quantities?</p>]]></text>
-
-			<!--option 1 -->
-			<option correct="false">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Konnyaku</p>]]></text>
-			</option>
-			
-			<!--option 2 -->	
-			<option correct="false">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Leeks</p>]]></text>
-			</option>
-
-			<!--option 3 -->	
-			<option correct="true">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Persimmon</p>]]></text>
-			</option>
-			
-			<!--option 4 -->	
-			<option correct="false">
-				<text margin-bottom="5" anim="none" event="optionover,selectandsubmit" class="optionBox"><![CDATA[<p>Cabbage</p>]]></text>
-			</option>
-
-			<!-- feedbacks -->
-			<fb id="pass" event="">	
-
-				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Correct!</p><p>Gunma is a major producer of konnyaku, leeks and cabbage. </p>]]></text>
-		
-				<button margin-bottom="30" anim="none" event="btnover,loadNextQuestion"><![CDATA[Finish]]></button>
-
-			</fb>
-			
-			<fb id="fail" event="">	
-
-				<text anim="none" margin-top="30" margin-bottom="30"><![CDATA[<p class="p_24">Incorrect</p><p>Gunma is a major producer of konnyaku, leeks and cabbage. </p>]]></text>
-		
-				<button margin-bottom="30" anim="none" event="btnover,loadNextQuestion"><![CDATA[Finish]]></button>
-			</fb>
-		</question>
-
 
 
 		
