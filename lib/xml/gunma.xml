@@ -113,7 +113,7 @@
 		<!-- question 1 -->
         <question id="q1" time="30" event="">
 
-    		<image margin-bottom="30" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma1.jpg"/>
+    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma1.jpg"/>
 
     		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">Around 80% of Japan’s <i>daruma</i> good luck charms are made in Gunma Prefecture. The first eye is coloured in when making a wish. When is the second one coloured in? </p>]]></text>
 
@@ -157,7 +157,7 @@
 		<!-- question 2 -->
         <question id="q2" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma2.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma2.jpg"/>
 			`
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8">© JNTO</p>]]></text>
  
@@ -202,7 +202,7 @@
 		<!-- question 3 -->
         <question id="q3" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma3.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma3.jpg"/>
 			
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8">© JNTO</p>]]></text>
 
@@ -250,7 +250,7 @@
 		<!-- question 4 -->
         <question id="q4" time="30" event="">
 
-    		<image margin-bottom="3" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma4.jpg"/>
+    		<image margin-bottom="3" anim="show" animtime="1" src="lib/assets/Gunma4.jpg"/>
 
     		<text id="question" margin-bottom="30" anim="none"><![CDATA[<p class="p_24">Which of the following is located in Gunma?</p>]]></text>
 
@@ -297,7 +297,7 @@
 		<!-- question 5 -->
         <question id="q5" time="30" event="">
 
-    		<image margin-bottom="30" anim="show" animtime="1" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/Gunma5.jpg"/>
+    		<image margin-bottom="30" anim="show" animtime="1" src="lib/assets/Gunma5.jpg"/>
 
     		<text id="credit" margin-bottom="10" anim="none"><![CDATA[<p class="p_8"> </p>]]></text>
 
@@ -359,7 +359,7 @@
 
 				<text margin-bottom="30" anim="top" animtime="1" animdelay="0.2" ease="Bounce.easeOut"><![CDATA[<p class="p_30">CONGRATULATIONS!</p><p class="p_24">You scored [score]%</p>]]></text>
 
-				<text margin-bottom="30" anim="top" animtime="1" animdelay="0.2" ease="Bounce.easeOut"><![CDATA[<p>Share your result</p><a href="https://twitter.com/intent/tweet?text=I scored [passed] out of [total] on the Embassy of Japan in the UK's quiz at https://www.uk.emb-japan.go.jp/en/quiz/Gunma.html" target="_blank"><i style="font-size:32px;color:#6bc5f5;" class="fab fa-twitter-square"></i></a><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uk.emb-japan.go.jp%2Fen%2Fquiz%2FGunma.html&amp;src=sdkpreparse"=I scored [passed] out of [total] on the 'name the Japanese city' quiz!&display=popup&redirect_uri=https://www.uk.emb-japan.go.jp/en/quiz/Gunma.html" class="fb-xfbml-parse-ignore" target="_blank"><i style="font-size:32px;color:#415a94;margin-left:10px" class="fab fa-facebook-square"></i></a><a href="mailto:?subject=Shared from the Japanese Gunma Quiz&body=I scored [passed] out of [total] on the 'name the Japanese city' quiz at https://www.uk.emb-japan.go.jp/en/quiz/Gunma.html" target="_blank"><i style="font-size:32px;color:#339966;margin-left:10px" class="fas fa-envelope-square"></i></a></p>]]></text>
+				<text margin-bottom="30" anim="top" animtime="1" animdelay="0.2" ease="Bounce.easeOut"><![CDATA[<p>Share your result</p><a href="https://twitter.com/intent/tweet?text=I scored [passed] out of [total] on the Embassy of Japan in the UK's quiz at https://www.uk.emb-japan.go.jp/en/quiz/Gunma.html" target="_blank"><i style="font-size:32px;color:#6bc5f5;" class="fab fa-twitter-square"></i></a><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.uk.emb-japan.go.jp%2Fen%2Fquiz%2FGunma.html&amp;src=sdkpreparse"=I scored [passed] out of [total] on the 'Gunma' quiz!&display=popup&redirect_uri=https://www.uk.emb-japan.go.jp/en/quiz/Gunma.html" class="fb-xfbml-parse-ignore" target="_blank"><i style="font-size:32px;color:#415a94;margin-left:10px" class="fab fa-facebook-square"></i></a><a href="mailto:?subject=Shared from the Japanese Gunma Quiz&body=I scored [passed] out of [total] on the 'Gunma' quiz at https://www.uk.emb-japan.go.jp/en/quiz/Gunma.html" target="_blank"><i style="font-size:32px;color:#339966;margin-left:10px" class="fas fa-envelope-square"></i></a></p>]]></text>
 				
 				<button margin-bottom="30" anim="top" animtime="1" animdelay="0.1" ease="Bounce.easeOut" event="btnover,restart"><![CDATA[Play again?]]></button>
             </pass>
