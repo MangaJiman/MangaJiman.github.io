@@ -355,7 +355,7 @@
         <!--score screen-->
         <score masteryscore="80">
            <pass event="">
-           		<image margin-bottom="30" anim="top" animtime="1" animdelay="0.3" ease="Bounce.easeOut" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/EndImage.jpg"/>
+           		<a href="https://www.uk.emb-japan.go.jp/en/quiz/directory.html"><image margin-bottom="30" anim="top" animtime="1" animdelay="0.3" ease="Bounce.easeOut" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/EndImage.jpg"/></a>
 
 				<text margin-bottom="30" anim="top" animtime="1" animdelay="0.2" ease="Bounce.easeOut"><![CDATA[<p class="p_30">CONGRATULATIONS!</p><p class="p_24">You scored [score]%</p>]]></text>
 
@@ -365,7 +365,7 @@
             </pass>
             
             <fail event="">
-            	<image margin-bottom="30" anim="top" animtime="1" animdelay="0.3" ease="Bounce.easeOut" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/EndImage.jpg"/>
+            	<a href="https://www.uk.emb-japan.go.jp/en/quiz/directory.html"><image margin-bottom="30" anim="top" animtime="1" animdelay="0.3" ease="Bounce.easeOut" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/EndImage.jpg"/></a>
 
                 <text margin-bottom="30" anim="top" animtime="1" animdelay="0.2" ease="Bounce.easeOut"><![CDATA[<p class="p_32">You scored [score]%</p><p class="p_24">Why not have another go?</p>]]></text>
 
