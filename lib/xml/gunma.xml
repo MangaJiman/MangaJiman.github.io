@@ -344,7 +344,7 @@
 		
 		<!--generic timeout text-->
 		<timeout>
-			<image margin-bottom="30" anim="top" animtime="1" animdelay="0.3" ease="Bounce.easeOut" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/EndImage.jpg"/>
+			<a href="https://www.uk.emb-japan.go.jp/en/quiz/directory.html" class="fb-xfbml-parse-ignore" target="_blank"><image margin-bottom="30" anim="top" animtime="1" animdelay="0.3" ease="Bounce.easeOut" src="https://www.uk.emb-japan.go.jp/en/quiz/lib/assets/EndImage.jpg"/></a>
 
 			<text margin-bottom="30" anim="top" animtime="1" animdelay="0.2" ease="Bounce.easeOut"><![CDATA[<p class="p_42 grey">Times up!</p>]]></text>
 	
